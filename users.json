@@ -1,1 +1,4 @@
-{"users":[{"deviceId":"4b239586d5cc71fc","name":"Fran","enabled":true,"isPremium":true,"expiresAt":"2030-12-31T23:59:59Z"}]}
+{"users":
+  [{"deviceId":"4b239586d5cc71fc","name":"Fran","enabled":true,"isPremium":true,"expiresAt":"2030-12-31T23:59:59Z"}],
+  [{"deviceId":"a93dd572f60fdb54","name":"DEV","enabled":true,"isPremium":true,"expiresAt":"2030-12-31T23:59:59Z"}]
+}
